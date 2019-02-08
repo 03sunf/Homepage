@@ -1,9 +1,10 @@
 # 03sunf personal hompage
+* http://03sunf.com
 
-1. Create .htpasswd user before user 'private' tab.
+* Create .htpasswd user before user 'private' tab.
 ```
 $ htpasswd -c /var/www/html/ 03sunf
 ```
 
-2. Sample site(http://03sunf.com)
+* Setting 'config.php'
 ![img-01](https://github.com/03sunf/Homepage/blob/master/image/img01.JPG)
