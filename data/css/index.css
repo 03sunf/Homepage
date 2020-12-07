@@ -1,0 +1,16 @@
+.center {
+	position: absolute;
+	width: 99%;
+	height: 80%;
+	top: 20%;
+	text-align: center;
+}
+.ruka {
+	position: absolute;
+	bottom: 0%;
+	right: 0%;
+}
+.mail {
+	color: black;
+	text-decoration: none;
+}

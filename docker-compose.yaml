@@ -1,0 +1,19 @@
+version: "3.7"
+
+services:
+    03sunf-web:
+        image: php:7.3.3-apache
+        container_name: 03sunf-web
+        volumes:
+            - ./data:/var/www/html
+        working_dir: /var/www/html
+        networks:
+            03sunf-web-backend:
+                ipv4_address: 172.0.0.2
+                
+networks:
+    03sunf-web-backend:
+        driver: bridge
+        ipam:
+            config:
+                - subnet: 172.0.0.0/24 
