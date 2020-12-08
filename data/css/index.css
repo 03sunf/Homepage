@@ -9,6 +9,8 @@
 	position: absolute;
 	bottom: 0%;
 	right: 0%;
+	height: auto;
+	max-width: 100%;
 }
 .mail {
 	color: black;
