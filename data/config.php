@@ -6,4 +6,5 @@
 	define('__TWITTER__', 'https://twitter.com/03sunf');
 	define('__BLOG__', 'https://blog.03sunf.com');
 	define('__GITHUB__', 'https://github.com/03sunf');
+	define('__COFFEE__', 'https://donaricano.com/mypage/1563651513_e09lZu');
 ?>
