@@ -45,7 +45,7 @@
 				<a href="<?=__TWITTER__?>" style="color: #4374D9; text-decoration: none;">Twitter</a> · 
 				<a href="<?=__BLOG__?>" style="color: #4374D9; text-decoration: none;">Blog</a> · 
 				<a href="<?=__GITHUB__?>" style="color: #4374D9; text-decoration: none;">Github</a> · 
-				<a href="<?=__COFFEE__?>" style="color: #4374D9; text-decoration: none;">Coffee</a>
+				<a href="<?=__DONATE__?>" style="color: #4374D9; text-decoration: none;">Donate</a>
 			</p>
 			<!-- Bottom images -->
 			<img src="/img/ruka.png" class="ruka"/>
