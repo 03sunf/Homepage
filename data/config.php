@@ -6,5 +6,5 @@
 	define('__TWITTER__', 'https://twitter.com/03sunf');
 	define('__BLOG__', 'https://blog.03sunf.com');
 	define('__GITHUB__', 'https://github.com/03sunf');
-	define('__DONATE__', 'pay.php');
+	define('__DONATE__', '03sunf.php');
 ?>

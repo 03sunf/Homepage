@@ -10,7 +10,7 @@
 		<!-- Default Set. -->
 		<title><?=__USERNAME__?></title>
 		<link rel="icon" href="favicon.ico?v=1"/>
-		<link rel="stylesheet" href="/css/index.css"/>
+		<link rel="stylesheet" href="/css/index.css?v=2"/>
 		<link href="https://fonts.googleapis.com/css?family=Amatic+SC:400,700" rel="stylesheet"/>
 
 		<!-- Default Metatag. -->
@@ -34,7 +34,7 @@
 	</head>
 	<body>
 		<!-- Just for fun :) -->
-		<script src="/js/index.js"></script>
+		<script src="/js/index.js?v=1"></script>
 		<div class="center">
 			<p style="font-family: 'Amatic SC'; font-weight: 800; font-size: 72px; height: 12px;"><?=__USERNAME__?></p>
 			<p style="font-family: 'Amatic SC'; font-weight: 600; font-size: 18px;">
@@ -45,7 +45,7 @@
 				<a href="<?=__TWITTER__?>" style="color: #4374D9; text-decoration: none;">Twitter</a> · 
 				<a href="<?=__BLOG__?>" style="color: #4374D9; text-decoration: none;">Blog</a> · 
 				<a href="<?=__GITHUB__?>" style="color: #4374D9; text-decoration: none;">Github</a> · 
-				<a href="<?=__DONATE__?>" style="color: #4374D9; text-decoration: none;">Donate</a>
+				<a href="<?=__DONATE__?>" style="color: #4374D9; text-decoration: none;">03sunf</a>
 			</p>
 			<!-- Bottom images -->
 			<img src="/img/ruka.png" class="ruka"/>
