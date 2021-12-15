@@ -9,8 +9,9 @@
 	<head>
 		<!-- Default Set. -->
 		<title><?=__USERNAME__?></title>
-		<link rel="icon" href="favicon.ico?v=1"/>
-		<link rel="stylesheet" href="/css/index.css?v=2"/>
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=1.0">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=1.0">
+		<link rel="stylesheet" href="/css/index.css?v=1.0"/>
 		<link href="https://fonts.googleapis.com/css?family=Amatic+SC:400,700" rel="stylesheet"/>
 
 		<!-- Default Metatag. -->
@@ -41,14 +42,14 @@
 				<a href="mailto:<?=__EMAIL__?>" style="color: black; text-decoration: none">(<?=__EMAIL__?>)</a>
 			</p>
 			<p style="font-family: 'Amatic SC'; font-weight: 600; font-size: 32px;">
-				<a href="<?=__FACEBOOK__?>" style="color: #4374D9; text-decoration: none;">Facebook</a> · 
-				<a href="<?=__TWITTER__?>" style="color: #4374D9; text-decoration: none;">Twitter</a> · 
-				<a href="<?=__BLOG__?>" style="color: #4374D9; text-decoration: none;">Blog</a> · 
-				<a href="<?=__GITHUB__?>" style="color: #4374D9; text-decoration: none;">Github</a> · 
-				<a href="<?=__DONATE__?>" style="color: #4374D9; text-decoration: none;">03sunf</a>
+				<a href="<?=__FACEBOOK__?>" style="color: #EEB9A1; text-decoration: none;">Facebook</a> · 
+				<a href="<?=__TWITTER__?>" style="color: #EEB9A1; text-decoration: none;">Twitter</a> · 
+				<a href="<?=__BLOG__?>" style="color: #EEB9A1; text-decoration: none;">Blog</a> · 
+				<a href="<?=__GITHUB__?>" style="color: #EEB9A1; text-decoration: none;">Github</a> · 
+				<a href="<?=__DONATE__?>" style="color: #EEB9A1; text-decoration: none;">03sunf</a>
 			</p>
 			<!-- Bottom images -->
-			<img src="/img/ruka.png" class="ruka"/>
+			<img src="/img/toga.png" class="ruka"/>
 		</div>
 	</body>
 </html>	
